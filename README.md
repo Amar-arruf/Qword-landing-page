@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="#">
     <img src="https://www.qwords.com/wp-content/themes/qwords/assets/images/icons/logo-qw-light.webp" alt="Logo" width="auto" height="80">
   </a>
 
@@ -107,7 +107,7 @@ _untuk informasi lebih lanjut untuk menjalankan project laravel kunjungi website
 
 Your Name - [Amar Ma'ruf](https://www.linkedin.com/in/amar-ma-ruf-749982127/) amarmaruf2403@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Amar-arruf/Qword-landing-page](https://github.com/Amar-arruf/Qword-landing-page)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
